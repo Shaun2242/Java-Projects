@@ -1,0 +1,3 @@
+dirty
+Betelgeuse	YELLOW	1000	45.599998	None
+[Earth]	BLUE	6371	1	None
